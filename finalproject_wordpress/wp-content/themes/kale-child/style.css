@@ -1,0 +1,138 @@
+/*
+Theme Name: Kale
+Theme URI: https://www.lyrathemes.com/kale/
+Description: Kale Child Theme
+Author: Amalia Klinck-Shearman
+Template: kale
+Version: 1.0.1
+Text Domain: kale-child
+*/
+
+.tagline {
+	font-size: 24px;
+	font-color: powderblue;
+	font-family: 'Pacifico', cursive;
+	color: #ffdfd4;
+	text-transform: uppercase;
+}
+
+.header-logo-text {
+	font-size: 250px;
+	font-weight: 250;
+	color: #9ad6d4;
+}
+
+.navbar-nav > li > a {
+	font-family: 'Pacifico', cursive;
+	font-weight: 500px;
+	color: #ffdfd4;
+	font-size: 15px;
+}
+
+.wp-caption {
+	color: #ffdfd4;
+}
+
+.entry-content {
+font-family: 'Didact Gothic', sans-serif;
+font-size: 16px;
+line-height: 25px;
+}
+
+h2 {
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 16px;
+	font-color: ;
+}
+
+#menu-menu-1 {
+	float: right;
+	position: relative;
+	text-align: center;
+	display: block;
+	width: 72%;
+}
+
+/*fonts */
+.form-label{
+	text-transform:lowercase;
+	font-weight:250;
+	font-family: 'Didact Gothic', sans-serif;
+}
+
+.frontpage-slider .caption{
+	font-family: 'Didact Gothic', sans-serif;}
+
+.rpwwt-widget .recent-posts-widget-with-thumbnails .rpwwt-post-title {
+	font-family: 'Didact Gothic', 
+	sans-serif;font-weight:400;
+	text-transform:uppercase;
+	font-color: #453939;
+}
+.entry-title {
+	line-height:1.6;
+	margin:0 0 11px;
+	letter-spacing:1.2px;
+}
+
+h1.entry-title {
+	margin-bottom:28px
+}
+
+/*widgets */
+.widget ul{
+	padding-left: 0.1; 
+	margin-bottom: 0.1; 
+	list-style: none;
+}
+
+.widget ul >li{
+	position: relative; display: block;padding:5px 0;
+}
+.widget ul >li >a,
+
+.widget ul >li > span >a{
+	text-transform:lowercase;
+	font-size:16px;
+	color:#453939
+}
+
+.widget ul >li >a:focus,
+
+.widget ul >li >a:hover,
+
+.widget ul >li > span >a:focus,
+
+.widget ul >li > span >a:hover{
+	text-decoration:bold;
+	background-color:transparent;
+}
+
+.widget ul >li > span >a {
+	font-style:bold;
+}
+
+/*front large post updated */
+.frontpage-large-post{}
+.frontpage-large-post .entry-summary{
+	font-size:16px;
+	font-weight:456;
+	font-family: 'Didact Gothic', sans-serif;
+	text-align: justify;
+	-moz-column-count: 2;
+	-moz-column-gap: 25px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 25px;
+	column-count: 2;
+	column-gap: 25px;
+}
+
+.frontpage-large-post .entry-title{
+	font-size:26px
+	font-family: 'Didact Gothic', sans-serif;
+	color: #453939;
+}
+
+.frontpage-large-post .entry-date{
+	margin-bottom:12px;
+}
