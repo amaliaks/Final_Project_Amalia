@@ -53,6 +53,7 @@ h2 {
 	font-color: ;
 }
 
+/*updated menu position and the display block. it is aligned to the center here, but it doesn't work on the live site, only on the local site */
 #menu-menu-1 {
 	float: right;
 	position: relative;
