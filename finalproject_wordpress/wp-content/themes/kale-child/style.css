@@ -38,6 +38,7 @@ Text Domain: kale-child
 	color: #ffdfd4;
 }
 
+/*updated the entry content font, text, size, and color to match my general theme and make it easier to read.*/
 .entry-content {
 font-family: 'Didact Gothic', sans-serif;
 font-size: 24px;
