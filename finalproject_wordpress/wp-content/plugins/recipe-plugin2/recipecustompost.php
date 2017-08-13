@@ -51,7 +51,7 @@ function create_post_type() {
 
 
 /* code customized from https://www.sitepoint.com/adding-custom-meta-boxes-to-wordpress/ */
-
+/*start here: added custom meta boxes & field to my recipe custom post type. */
 function add_custom_meta_box()
 {
     add_meta_box("recipe-meta-box", "Recipe Details", "custom_meta_box_markup", "recipe", "side", "high", null);
@@ -87,5 +87,5 @@ function custom_meta_box_markup($object)
          </div>
       <?php
 }
-
+/*end here */
 ?>
