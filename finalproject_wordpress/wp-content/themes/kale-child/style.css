@@ -8,6 +8,7 @@ Version: 1.0.1
 Text Domain: kale-child
 */
 
+/* updated tagline css using the parent theme style.css file and using the inspector tool */
 .tagline {
 	font-size: 24px;
 	font-color: powderblue;
