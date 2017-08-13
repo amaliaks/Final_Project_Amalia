@@ -15,7 +15,7 @@ function my_theme_enqueue_styles() {
 
 //Loading Google Fonts
 function load_google_fonts() {
-wp_register_style('googleWebFonts', 'https://fonts.googleapis.com/css?family=Pacifico|Didact+Gothic');
+wp_register_style('googleWebFonts', 'https://fonts.googleapis.com/css?family=Arvo|Pacifico|Didact+Gothic');
 wp_enqueue_style('googleWebFonts');
 }
 
