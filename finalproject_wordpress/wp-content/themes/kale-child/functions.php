@@ -1,4 +1,5 @@
 <?php
+//Enqued my child theme (kale child) 
 add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
 function my_theme_enqueue_styles() {
 
