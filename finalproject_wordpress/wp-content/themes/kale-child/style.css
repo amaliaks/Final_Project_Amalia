@@ -69,7 +69,8 @@ h2 {
 	font-weight:250;
 	font-family: 'Didact Gothic', sans-serif;
 }
-
+ /*start here: customized the catption for the slide show. customized the font using Google fonts. also, added additional customizations to the widgets, 
+thumbnails and post titles that appear on the right side of the website. */
 .frontpage-slider .caption{
 	font-family: 'Didact Gothic', sans-serif;}
 
@@ -79,6 +80,7 @@ h2 {
 	text-transform:uppercase;
 	font-color: #453939;
 }
+/*end here. */
 
 /*additional updates to the blog post entries */
 .entry-title {
