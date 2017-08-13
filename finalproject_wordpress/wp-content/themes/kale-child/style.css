@@ -24,6 +24,7 @@ Text Domain: kale-child
 	color: #9ad6d4;
 }
 
+/* updated navigation bar several times css using the parent theme style.css file and using the inspector tool */
 .navbar-nav > li > a {
 	font-family: 'Arvo', serif;
 	font-weight: 500px;
