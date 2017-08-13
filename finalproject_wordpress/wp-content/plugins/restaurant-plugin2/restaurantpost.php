@@ -8,6 +8,9 @@ Author: Amalia Klinck-Shearman
 Version: 1.2
 Author URI: threecheersfourfood.com
 */
+
+/*created custom post type for my restaurant reviews, added labels and location of the labels to show up in my custom post type. */
+
 add_action( 'init', 'create_post_type' );
 function create_post_type() {
   $labels = array(
