@@ -10,6 +10,7 @@ Version: 1.0
 Author URI: threecheersfourfood.com
 */
 
+/*created custom post type with labels, and hierarchies for the TV reviews */
 add_action( 'init', 'create_post_type' );
 function create_post_type() {
   register_post_type( 'tv_review',
