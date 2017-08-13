@@ -88,7 +88,10 @@ h1.entry-title {
 	margin-bottom:28px
 }
 
-/*widgets */
+/*widgets */ /*in this section, I updated the widget class, updating it's position, 
+the margins, font, font color, font-size, the hover, focus, background color, text decorations, and font style. 
+I did this by using hte inspector tool to find the class and aligning that information with what I could find in
+the parent theme to be able to accurately customize and change specific aspects of the widget class.*/
 .widget ul{
 	padding-left: 0.1; 
 	margin-bottom: 0.1; 
@@ -103,7 +106,7 @@ h1.entry-title {
 .widget ul >li > span >a{
 	text-transform:lowercase;
 	font-size:24px;
-	color:#453939
+	font-color:#453939
 }
 
 .widget ul >li >a:focus,
