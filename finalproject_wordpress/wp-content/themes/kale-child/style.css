@@ -36,8 +36,9 @@ Text Domain: kale-child
 
 .entry-content {
 font-family: 'Didact Gothic', sans-serif;
-font-size: 16px;
+font-size: 24px;
 line-height: 25px;
+letter-spacing: 2px;
 }
 
 h2 {
@@ -94,7 +95,7 @@ h1.entry-title {
 
 .widget ul >li > span >a{
 	text-transform:lowercase;
-	font-size:16px;
+	font-size:24px;
 	color:#453939
 }
 
@@ -116,8 +117,8 @@ h1.entry-title {
 /*front large post updated */
 .frontpage-large-post{}
 .frontpage-large-post .entry-summary{
-	font-size:16px;
-	font-weight:456;
+	font-size:24px;
+	font-weight:558;
 	font-family: 'Didact Gothic', sans-serif;
 	text-align: justify;
 	-moz-column-count: 2;
@@ -129,11 +130,11 @@ h1.entry-title {
 }
 
 .frontpage-large-post .entry-title{
-	font-size:26px
+	font-size:31px
 	font-family: 'Didact Gothic', sans-serif;
 	color: #453939;
 }
 
 .frontpage-large-post .entry-date{
-	margin-bottom:12px;
+	margin-bottom:15px;
 }
