@@ -33,6 +33,7 @@ Text Domain: kale-child
 	letter-spacing: 2px;
 }
 
+/*updated caption color to match the navigation bar and tagline. did this by finding the div > id > class of the caption using the inspector tool and finding it again in the parent theme CSS */
 .wp-caption {
 	color: #ffdfd4;
 }
