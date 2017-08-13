@@ -8,6 +8,8 @@ Author: Amalia Klinck-Shearman
 Version: 1.2
 Author URI: threecheersfourfood.com
 */
+
+/*created a custom post type for my recipes. Added code to have the custom post type load. */
 add_action( 'init', 'create_post_type' );
 function create_post_type() {
 	$labels = array(
