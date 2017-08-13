@@ -14,7 +14,7 @@ function my_theme_enqueue_styles() {
 }
 
 
-//Loading Google Fonts
+//Added code to be able to load Google Fonts. used 3 Google fonts: Arvo, Pacifico, Didact + Gothic
 function load_google_fonts() {
 wp_register_style('googleWebFonts', 'https://fonts.googleapis.com/css?family=Arvo|Pacifico|Didact+Gothic');
 wp_enqueue_style('googleWebFonts');
