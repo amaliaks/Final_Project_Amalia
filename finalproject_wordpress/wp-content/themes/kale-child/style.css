@@ -17,6 +17,7 @@ Text Domain: kale-child
 	text-transform: uppercase;
 }
 
+/* updated header css using the parent theme style.css file and using the inspector tool */
 .header-logo-text {
 	font-size: 250px;
 	font-weight: 250;
