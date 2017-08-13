@@ -50,7 +50,7 @@ function create_post_type() {
   register_post_type( 'RestaurantReview', $args );
 }
 
-
+/* added custom meta boxes and custom fields for the restaurant posts. these included: restaurant name, address, cuisine, rating, comments */
 /* code customized from https://www.sitepoint.com/adding-custom-meta-boxes-to-wordpress/ */
 
 function add_custom_meta_box()
