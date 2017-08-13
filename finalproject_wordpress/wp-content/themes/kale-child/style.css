@@ -136,12 +136,14 @@ h1.entry-title {
 	column-gap: 25px;
 }
 
+/*customized the front page large post title to match the rest of the site's theme */
 .frontpage-large-post .entry-title{
 	font-size:31px
 	font-family: 'Didact Gothic', sans-serif;
 	color: #453939;
 }
 
+/*increased the margin from the bottom of the front post to add more spacing and white space */
 .frontpage-large-post .entry-date{
 	margin-bottom:15px;
 }
