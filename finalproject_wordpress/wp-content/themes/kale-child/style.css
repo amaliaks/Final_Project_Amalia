@@ -63,6 +63,7 @@ h2 {
 }
 
 /*fonts */
+/*customized the page section headers -- customized the font weight, text transformation, font style */
 .form-label{
 	text-transform:lowercase;
 	font-weight:250;
